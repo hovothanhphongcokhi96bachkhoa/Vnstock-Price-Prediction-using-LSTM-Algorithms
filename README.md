@@ -10,6 +10,7 @@ We can see that the economic crisis is approaching, and state banks continuously
 impact on the stock market. These are tough times for all businesses, but it's also an opportunity for those who can. 
 
 II. PROBLEM DEFINITION
+
 This assignment will be done by groups as we formed in the class. We separated into two main partitions: Odd group (A) & Even 
 group (B) as shown in the Link. The tasks are as follows:
 Odd group (index) Even group (index)
