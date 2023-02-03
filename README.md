@@ -1,6 +1,6 @@
 # Vnstock-Price-Prediction-using-LSTM-Algorithms
                                                  VIETNAMESE STOCK MARKET ANALYSIS
-I. INTRODUCTION
+**I. INTRODUCTION**
 
 Vietnam finished 2021 with a 2.58% GDP growth rate, despite witnessing one of the harshest COVID lockdowns in the world
 during the second half of 2021. Yet, Viet Nam is also one of the rare economies to post two consecutive years of growth since
@@ -9,7 +9,7 @@ press and seen that the financial situation of Vietnam, particularly, and the wo
 We can see that the economic crisis is approaching, and state banks continuously increase interest rates. This leads to a significant
 impact on the stock market. These are tough times for all businesses, but it's also an opportunity for those who can. 
 
-II. PROBLEM DEFINITION
+**II. PROBLEM DEFINITION**
 
 This assignment will be done by groups as we formed in the class. We separated into two main partitions: Odd group (A) & Even 
 group (B) as shown in the Link. The tasks are as follows:
@@ -41,7 +41,7 @@ instance, we apply the model train by tourism data for finance inference). Which
 5. Which stock index sectors are most affected (negative meaning) by the Economic Crisis (maximum 3 stocks), use the
 collected data and analysis to prove your conclusion. How do you think about their growth ability of them?
 
-III. SOME REFERENCES
+**III. SOME REFERENCES**
 
 [1] https://vietstock.vn/
 [2] https://trade.vndirect.com.vn/chung-khoan/danh-muc
