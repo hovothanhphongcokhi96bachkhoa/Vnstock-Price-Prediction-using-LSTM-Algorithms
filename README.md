@@ -1,5 +1,8 @@
 # Vnstock-Price-Prediction-using-LSTM-Algorithms
                                                 ANALYSE DU MARCHÉ BOURSIER VIETNAMIEN
+
+***Ce programme est écrit en langage Python***
+
 **I. INTRODUCTION**
 
 Le Vietnam a terminé 2021 avec un taux de croissance du PIB de 2,58 %, malgré l'un des blocages COVID les plus sévères au monde au cours du second semestre 2021. Pourtant, le Vietnam est également l'une des rares économies à afficher deux années consécutives de croissance depuis le début. de la COVID-19 dans le monde. Cependant, 2022 est une période difficile pour la croissance économique. Récemment, on peut suivre l'actualité dans la presse et constater que la situation financière du Vietnam, en particulier, et du monde en général, est devenue chaotique et complexe. Nous voyons que la crise économique approche et que les banques d'État augmentent continuellement les taux d'intérêt. Cela conduit à un impact significatif sur le marché boursier. Ce sont des temps difficiles pour toutes les entreprises, mais c'est aussi une opportunité pour celles qui le peuvent.
